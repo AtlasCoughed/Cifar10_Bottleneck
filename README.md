@@ -20,3 +20,4 @@ network can be one of 'vgg', 'inception', or 'resnet'
 dataset can be on of 'cifar10' or 'traffic'
 
 How will the pretrained model perform on the new datasets?
+# Cifar10_Bottleneck
